@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeMaker_Solucion", "MemeMaker_Solucion\MemeMaker_Solucion.csproj", "{C7F9EA9C-0B3F-4FF8-B023-446CA1337CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F9EA9C-0B3F-4FF8-B023-446CA1337CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F9EA9C-0B3F-4FF8-B023-446CA1337CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F9EA9C-0B3F-4FF8-B023-446CA1337CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F9EA9C-0B3F-4FF8-B023-446CA1337CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD96B22-D729-4404-939D-0E7D87D956DC}
+	EndGlobalSection
+EndGlobal
